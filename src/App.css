@@ -7,7 +7,6 @@ html {
   display: flex;
   height: 100%;
   flex-direction: column;
-  border: 1px solid red;
 }
 .page-body {
   display: flex;
