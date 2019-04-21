@@ -17,7 +17,12 @@ html {
   align-items: center;
 }
 .content-container {
-  flex-grow: 2;
+  font-size: 28px;
+  padding: 50px;
+  border: 1px solid green;
+  max-height: 100%;
+  overflow: scroll;
+  overflow-x: hidden;
 }
 .illustration-container {
   flex-grow: 2;
