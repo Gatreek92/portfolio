@@ -1,6 +1,6 @@
 import React from "react";
 const ContentContainer = () => (
-  <div>
+  <div className="content-container">
     <p>content goes here !</p>
   </div>
 );

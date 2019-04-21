@@ -1,6 +1,6 @@
 import React from "react";
 const Illustration = () => (
-  <div>
+  <div className="illustration-container">
     <p>illustartion</p>
   </div>
 );

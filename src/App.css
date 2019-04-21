@@ -1,7 +1,22 @@
+#root,
+body,
+html {
+  height: 100%;
+}
 .page-container {
   display: flex;
+  height: 100%;
   flex-direction: column;
+  border: 1px solid red;
 }
 .page-body {
   display: flex;
+  flex: 1;
+  align-items: center;
+}
+.content-container {
+  flex-grow: 2;
+}
+.illustration-container {
+  flex-grow: 2;
 }
