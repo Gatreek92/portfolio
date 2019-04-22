@@ -19,15 +19,9 @@ html {
 .content-container {
   font-size: 28px;
   padding: 50px;
-  border: 1px solid green;
   max-height: 100%;
   overflow: scroll;
   overflow-x: hidden;
-}
-.illustration-container {
-.menu-container {
-  border: 1px solid white;
-  height: 100%;
 }
 .menu-container > ul {
   display: flex;
