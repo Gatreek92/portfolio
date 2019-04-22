@@ -22,6 +22,7 @@ html {
   max-height: 100%;
   overflow: scroll;
   overflow-x: hidden;
+  overflow-y: visible;
 }
 .menu-container > ul {
   display: flex;
