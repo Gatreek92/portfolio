@@ -17,6 +17,9 @@ html {
   align-items: center;
 }
 .content-container {
+  display: flex;
+  flex: 1;
+  justify-content: center;
   font-size: 28px;
   padding: 50px;
   max-height: 100%;
